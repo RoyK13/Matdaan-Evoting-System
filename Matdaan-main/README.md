@@ -82,7 +82,3 @@ You can access the frontend at `http://localhost:3000` and the backend at `http:
    Result:
    
    ![image](https://github.com/Animesh7853/Matdaan/assets/114354311/57bdd9f5-1291-43f4-9fcd-b1b38a3ad7f0)
-
-
-
-© ANIMESH JHA , UJJAWAL KANTT , PRANAV KHANDELWAL
